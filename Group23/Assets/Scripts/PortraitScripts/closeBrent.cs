@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class group : MonoBehaviour {
+public class closeBrent : selectBrent {
 
 	// Use this for initialization
 	void Start () {

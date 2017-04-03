@@ -175,11 +175,6 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
-<<<<<<< HEAD
-    <Compile Include="Assets\Scripts\closeKevin.cs" />
-    <Compile Include="Assets\Scripts\closeNiki.cs" />
-    <Compile Include="Assets\Scripts\closeVictor.cs" />
-=======
     <Compile Include="Assets\Scripts\ActiveStateToggler.cs" />
     <Compile Include="Assets\Scripts\ApplicationManager.cs" />
     <Compile Include="Assets\Scripts\ChangeColor.cs" />
@@ -187,15 +182,18 @@
     <Compile Include="Assets\Scripts\DragPanel.cs" />
     <Compile Include="Assets\Scripts\DropMe.cs" />
     <Compile Include="Assets\Scripts\PanelManager.cs" />
+    <Compile Include="Assets\Scripts\PortraitScripts\closeBrent.cs" />
+    <Compile Include="Assets\Scripts\PortraitScripts\closeKevin.cs" />
+    <Compile Include="Assets\Scripts\PortraitScripts\closeNiki.cs" />
+    <Compile Include="Assets\Scripts\PortraitScripts\closeVictor.cs" />
+    <Compile Include="Assets\Scripts\PortraitScripts\selectBrent.cs" />
+    <Compile Include="Assets\Scripts\PortraitScripts\selectKevin.cs" />
+    <Compile Include="Assets\Scripts\PortraitScripts\selectNiki.cs" />
+    <Compile Include="Assets\Scripts\PortraitScripts\selectVictor.cs" />
     <Compile Include="Assets\Scripts\ResizePanel.cs" />
     <Compile Include="Assets\Scripts\ScrollDetailTexture.cs" />
     <Compile Include="Assets\Scripts\ShowSliderValue.cs" />
     <Compile Include="Assets\Scripts\TiltWindow.cs" />
->>>>>>> 50b3c856af6d5ea80a8ef8a718c7a57149294e4a
-    <Compile Include="Assets\Scripts\group.cs" />
-    <Compile Include="Assets\Scripts\selectKevin.cs" />
-    <Compile Include="Assets\Scripts\selectNiki.cs" />
-    <Compile Include="Assets\Scripts\selectVictor.cs" />
     <Compile Include="Assets\input.cs" />
   </ItemGroup>
   <ItemGroup>
