@@ -175,7 +175,14 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrUIHelpers.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
+    <Compile Include="Assets\Scripts\closeKevin.cs" />
+    <Compile Include="Assets\Scripts\closeNiki.cs" />
+    <Compile Include="Assets\Scripts\closeVictor.cs" />
     <Compile Include="Assets\Scripts\group.cs" />
+    <Compile Include="Assets\Scripts\selectKevin.cs" />
+    <Compile Include="Assets\Scripts\selectNiki.cs" />
+    <Compile Include="Assets\Scripts\selectVictor.cs" />
+    <Compile Include="Assets\input.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\GoogleVR\Demos\Environment\DemoEnvUnlitGrayscale.shader" />
