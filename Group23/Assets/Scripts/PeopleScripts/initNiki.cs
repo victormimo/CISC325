@@ -21,7 +21,7 @@ public class initNiki : avatar
             avatar = a;
             avatarList.Add(a);
         }
-
+        Debug.Log("start is runnin");
         hideAvatar(avatar);
     }
 

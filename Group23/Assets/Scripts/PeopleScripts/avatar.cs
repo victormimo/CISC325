@@ -9,8 +9,8 @@ public class avatar : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        hideAll();
-	}
+
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -19,11 +19,14 @@ public class avatar : MonoBehaviour {
 
     public void showAvatar(GameObject a)
     {
+        Debug.Log("showing  " + a.tag);
         a.SetActive(true);
     }
 
     public void hideAvatar(GameObject a)
     {
+        Debug.Log("hiding  " + a.tag);
+        Debug.Log(UnityEngine.StackTraceUtility.ExtractStackTrace());
         a.SetActive(false);
     }
 
