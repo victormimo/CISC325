@@ -182,6 +182,11 @@
     <Compile Include="Assets\Scripts\DragPanel.cs" />
     <Compile Include="Assets\Scripts\DropMe.cs" />
     <Compile Include="Assets\Scripts\PanelManager.cs" />
+    <Compile Include="Assets\Scripts\PeopleScripts\proper\avatar.cs" />
+    <Compile Include="Assets\Scripts\PeopleScripts\proper\initBrent.cs" />
+    <Compile Include="Assets\Scripts\PeopleScripts\proper\initKevin.cs" />
+    <Compile Include="Assets\Scripts\PeopleScripts\proper\initNiki.cs" />
+    <Compile Include="Assets\Scripts\PeopleScripts\proper\initVictor.cs" />
     <Compile Include="Assets\Scripts\PortraitScripts\closeBrent.cs" />
     <Compile Include="Assets\Scripts\PortraitScripts\closeKevin.cs" />
     <Compile Include="Assets\Scripts\PortraitScripts\closeNiki.cs" />
